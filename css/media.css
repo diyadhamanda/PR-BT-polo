@@ -1,0 +1,7 @@
+ @media (min-width: 992px) {
+      .dropdown-menu.mega-menu {
+        left: 0;
+        right: 0;
+        width: 100%;
+      }
+    }
